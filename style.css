@@ -276,7 +276,7 @@ Bottom navigation bar Style
 }
 
 .bottom-header hr {
-    width: 1320px;
+    width: 80%;
     height: 0px;
     border: 1px solid rgba(255, 255, 255, 0.1);
 }
